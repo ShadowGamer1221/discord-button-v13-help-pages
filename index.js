@@ -1,4 +1,4 @@
-const { MessageActionRow, MessageButton } = require('discord-buttons');
+const { MessageActionRow, MessageButton } = require('discord.js');
 const wait = require('util').promisify(setTimeout);
 
 module.exports = {
