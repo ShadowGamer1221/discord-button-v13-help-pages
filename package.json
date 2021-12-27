@@ -34,6 +34,6 @@
   },
   "homepage": "https://github.com/FusionTerror/discord-clickpages#readme",
   "dependencies": {
-    "discord-buttons": "^3.2.1"
+    "discord.js": "^13.4.0"
   }
 }
